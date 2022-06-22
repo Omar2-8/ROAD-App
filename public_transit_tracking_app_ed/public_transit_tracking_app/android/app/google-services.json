@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "95192741826",
+    "project_id": "graduation-project1-e3215",
+    "storage_bucket": "graduation-project1-e3215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95192741826:android:3235d94359cc150994085b",
+        "android_client_info": {
+          "package_name": "com.example.public_transit_tracking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95192741826-ci4aabmge32rq8dgq3u2b2p1b1cji6up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8FaWVRl9s4lR6FPsW694qJTLY7_b-whg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95192741826-ci4aabmge32rq8dgq3u2b2p1b1cji6up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
